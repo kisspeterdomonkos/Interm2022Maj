@@ -1,0 +1,17 @@
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\bin\Debug\net6.0-windows\SuperBowlGUI.exe
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\bin\Debug\net6.0-windows\SuperBowlGUI.deps.json
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\bin\Debug\net6.0-windows\SuperBowlGUI.runtimeconfig.json
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\bin\Debug\net6.0-windows\SuperBowlGUI.dll
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\bin\Debug\net6.0-windows\SuperBowlGUI.pdb
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.csproj.AssemblyReference.cache
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.csproj.GenerateResource.cache
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.AssemblyInfoInputs.cache
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.AssemblyInfo.cs
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.dll
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\refint\SuperBowlGUI.dll
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.pdb
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.genruntimeconfig.cache
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\ref\SuperBowlGUI.dll
+C:\Users\Peti\Desktop\C#\SuperBowlGUI\obj\Debug\net6.0-windows\SuperBowlGUI.Changer.resources

@@ -1,0 +1,15 @@
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\bin\Debug\net6.0\SuperBowl(2022-maj).exe
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\bin\Debug\net6.0\SuperBowl(2022-maj).deps.json
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\bin\Debug\net6.0\SuperBowl(2022-maj).runtimeconfig.json
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\bin\Debug\net6.0\SuperBowl(2022-maj).dll
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\bin\Debug\net6.0\SuperBowl(2022-maj).pdb
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).csproj.AssemblyReference.cache
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).AssemblyInfoInputs.cache
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).AssemblyInfo.cs
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).dll
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\refint\SuperBowl(2022-maj).dll
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).pdb
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\SuperBowl(2022-maj).genruntimeconfig.cache
+C:\Users\Peti\Desktop\C#\SuperBowl(2022-maj)\obj\Debug\net6.0\ref\SuperBowl(2022-maj).dll
